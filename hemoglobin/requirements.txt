@@ -1,0 +1,8 @@
+pandas
+numpy==1.22.1
+fastapi==0.70.1
+uvicorn==0.16.0
+sklearn
+gunicorn
+uvloop
+httptools
